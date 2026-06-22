@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 group-title="ช่องทีวี"stou
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 group-title="ช่องทีวี"CGNTV
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 group-title="ช่องทีวี"NHKWorld
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 group-title="ช่องหนัง"Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง"EBSKids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 group-title="ช่องหนัง"Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+
+
+
+
+
+
+
+
