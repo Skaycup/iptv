@@ -1,0 +1,111 @@
+#EXTM3U
+
+# ==========================================
+# หมวดหมู่: ทีวีไทยและสถาบันการศึกษา (Thai Channels)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",stou
+https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",CH3
+https://p1.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yODc0ZDY1MWVhMjBjZTg2MjUzNANzA4NjI1YTYzZTRjMzli
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",CH5
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",cdn-th-vip (Ch8)
+https://cdn-th-vip.login.in.th/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",NBTHD
+https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w2031140874_b3128000.m3u8
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",MONO29
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Thai Channels",PPTV36
+https://p0.cdn.vet/live/ch25/i/ch25i.m3u8?sid=b5yMDJiZDVhZjY2ZTBlZWFkM2EyZgNmNlOWMzYjQ1N2MzZTQ4
+
+# ==========================================
+# หมวดหมู่: ข่าวสารและสารคดีระดับโลก (International News & Docs)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="International News & Docs",NHKWorld
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-logo="https://arirang.com" group-title="International News & Docs",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://arirang.com" group-title="International News & Docs",arirang (Alt Link)
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",CCTV-1
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",CCTV-4
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",CCTV-9
+https://xykt-fix.github.io/Y77.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",CGTN
+https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",CGTN ESPANOL
+https://amg01314-cgtn-amg01314c3-rakuten-uk-1318.playouts.now.amagi.tv/cgtn-es-rakuten/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="International News & Docs",trtworld
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="International News & Docs",HISTORYHIT
+https://ldsaaaaaa-timeline-samsungau-awedz.amagi.tv/playlist/ldsAAAAAA-timeline-samsungau/playlist.m3u
+
+# ==========================================
+# หมวดหมู่: ภาพยนตร์และซีรีส์ (Movies & Cinema)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungau-rs69y.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",MoviesSP
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cinerama.uz" group-title="Movies & Cinema",cinerama
+https://stream8.cinerama.uz/1227/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",PUBLICMOVIES
+https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/index.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",MEGACINETV
+https://cnn.hostlagarto.com/megacinetv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",SONYONEHITS
+https://d1tvu4639eiqii.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",SONYONE
+https://d21fkiqbljd83t.cloudfront.net/playlist_4.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",SONYONEHITS1
+https://d3nvxupr08boay.cloudfront.net/playlist_5.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",CINENANAR
+https://zylo-cinenanar-rakuten.amagi.tv/playlist480p.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",GRJNGOWESTERNMOVIES
+https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/2000.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Movies & Cinema",DISCOVERFILM
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/2000.m3u8
+
+# ==========================================
+# หมวดหมู่: การ์ตูนและรายการเด็ก (Kids & Cartoons)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Kids & Cartoons",EBSKids
+https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Kids & Cartoons",BOOM (Boomerang)
+https://lb-live-m.sky-cdn.com/mv/boomerang.m3u8?expires=1782069749&uta=JvfAGcu4Xv1KkxRaYTTWOw
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Kids & Cartoons",ABCKIS
+https://c.mjh.nz/abc-kids.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Kids & Cartoons",NICKOnline
+https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Kids & Cartoons",nicktonos
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+# ==========================================
+# หมวดหมู่: กีฬาและความตื่นเต้น (Sports & Action)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Sports & Action",cricketgold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Sports & Action",REDBULLTV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+#EXTINF:-1 tvg-logo="https://wikimedia.org" group-title="Sports & Action",FIFA+
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+
+# ==========================================
+# หมวดหมู่: ความบันเทิง เพลง และวาไรตี้ (Music & Variety)
+# ==========================================
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Music & Variety",wickedtuna
+https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Music & Variety",mytime
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://githubusercontent.com" group-title="Music & Variety",cdn-th-vip (Looktung)
+https://cdn-th-vip.login.in.th/looktungnetwork1/looktungnetwork1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Music & Variety",MajirChannel
+https://lb-live-m.sky-cdn.com/mv/mix.m3u8?expires=1782068874&uta=JbIZpv1fKz7RCy9TCXysXA
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Music & Variety",SKALAA
+https://lb-live-m.sky-cdn.com/mv/scala.m3u8?expires=1782069845&uta=DqRRTTXGwadN-al_WHRh-Q
+#EXTINF:-1 tvg-logo="https://pluto.tv" group-title="Music & Variety",SYAM
+https://lb-live-m.sky-cdn.com/mv/siam.m3u8?expires=1782069900&uta=kcD-T2s5Sr4_oavYecqUAg
