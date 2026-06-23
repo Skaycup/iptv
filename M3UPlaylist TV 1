@@ -54,7 +54,6 @@ https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master_36
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="News",skynews extra2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_360p.m3u8
 
-
 #=== MUSIC ===
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcLUK5ChIUnpOR8qDpcfICnqmzB4kMoFJGNT2VvvtbA&s" group-title="Music",That's 70s Live
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
@@ -66,7 +65,6 @@ https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg0
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://img-284.media.info/i/bg/6/6367-1672197098.webp" group-title="Music",NOW Rock
 https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now90s-rakuten/cb563d007f747b8f93cc2167d0f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2ffe109438a6ca1ac1a1dc17958e68314c8c915b9d580469e16d023a717cfc6a282d642e0c3ab4191f40236733a1655dbe84d9bc854badb946d4bf31b4a672d252d270e9c3458a7544a5d8292a35998fd61a9ab248f673cb40bda3eecd47769d86bf6b134c78fbad1454a36af8e3c0b42f1b5f2d8ab6770d5f298d3582c4fe2ba2c5f583eaa04325d287ea9dd8178a5d01c97f90184ba6e1637cbab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ade98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4c9c4d33cdd19a0cb7472e8c4a548dd7b2b9b1869caa5f37455d/53/848x480_1249600/index.m3u8
-
 
 #=== SPORTS ===
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yBL_LtOZyat-gfoJnmBhgU3xrT69qDrP3aWzw6--xMl2iHFIvWxRdJ3F&s=10" group-title="Sports",FIFA+
@@ -81,7 +79,10 @@ https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/chunklist_w1948
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp" group-title="Sports",RS News Sports 5 Live
 https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w458799111.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwpCkhBIMQETOugvI508T5R1OvtkSlkCewg&s" group-title="Sports",pointve
+https://tv.pointville.ag/hls/mystream.m3u8
+#EXTINF:-1 tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" group-title="Sports",Cricket Gold
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/0da5110b-8bc7-4e41-8c29-5c7e92bbc7d1/4.m3u8
 
 #=== ENTERTAINMENT & VARIETY ===
 #EXTINF:-1 tvg-logo="https://assets.wired2fish.com/uploads/2022/10/wired2fish-tv-logo.jpg" group-title="Entertainment & Variety",Wired2Fish
@@ -118,3 +119,7 @@ https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playl
 https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/2b2be4d5-7d0f-4e7b-b01a-21db7dfd241f/0.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e55d3f6f2a75879017f1850561af0d1c.webp"group-title="World",People Are Awesome Live
 https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8
+
+#=== ทีวีทั่วไป ===
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="ทีวีทั่วไป",cgtndocumentary
+https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master540p.m3u8
