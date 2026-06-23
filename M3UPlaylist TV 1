@@ -33,14 +33,14 @@ https://cdn-5.nxplay.com.br/SONY_MOVIES/tracks-v2a1/mono.ts.m3u8
 https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/2000.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/022/580/623/non_2x/movie-media-letter-logo-design-illustration-free-vector.jpg" group-title="Movies & Series",whiplash cinema
 https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwsCLXMbTBPv6MhnKVG_51uwqV5672xepBgw&s",PUBLICMOVIES
+ https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/tracks-v2a1/mono.m3u8
 
 #=== NEWS ===
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png" group-title="News",DW
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png" group-title="News",NHK WORLD JAPAN
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4sMeYeI9S9T0S8Xg7MhzEq1jvOTCbKskrIw&s" group-title="News",CNA
-https://live1.mediadesk.al/cnatvlive.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="News",skynews extra1
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master_360p.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="News",skynews extra2
@@ -96,3 +96,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image13759856438.jpg" group-title="Brunei TV (RTB)",GO live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#=== World ===
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VIisVrwMl0kvoZdv8FCfZkq9tmPM_Tjtbw&s",News World
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01076-lightning-newsworld-rakutenus/cb563d007f747b8f93cc2167d0f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af6ffb055108c6fa6ac1a1dc02e58e68314c8c915ee858246cc41d223f81c9c9af48d8641e0c3ab4191f40236733a1655dbe84d9bc854badb946d4bf31b4a672d252d270e9c3458a7544a5d8292a35998fd61a9ab248f673cb40bda3eecd47769d86bf6b134c78fbad1454a36af8e3c0b42f1b5f2d8ab6770d5f298d3582c4fe2ba2c5f583eaa04325d287ea9dd8178a5d01c97f90184ba6e1637cbab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ade98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d984d814c6894738f904b9e3c6f3364cf7998cceb5a1de0ddc60c/132/640x360_792000/index.m3u8
