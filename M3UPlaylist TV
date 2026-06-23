@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLgZaif7y9g4KyQOpjrbuqQqdunj2-3NOOYyG4NFA9lyDou_gRrwzWsGw&s=10",Rakuten TV
+https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7O0GIAkyFxILBHbn2uGREfm4kNnH0rzEF2IBCOWLrSstBLIIB3fELTvc&s=10"Cinevault 80'S Live
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3DdmQTOjIReX36bNd_pl6o--oz-fD7lgL9vs3YQhnw&s=10",Moviesphere Live
+https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",NHK WORLD JAPAN
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-logo="https://images.prismic.io/cinevaulttv/aa5jmVxvIZEnjdMI_cinevault-westerns-logo.png?auto=format%2Ccompress&q=85",Cinevault Westerns Live
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.thearchive.tv/images/thearchive/the_archive.png?imwidth=256",The Aechive Live
+https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9e8efdd95d7a2876bfd278dd9ba63d.webp",AMC En Espanol Live
+https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeR0pDeLokHRH1dMwj1IXry857ApUpMEYTD4nedO8UE_S3JbZBGDSgQ&s=10",Filmes Onlin Live
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtPVnuAUwjA1_n81CJmtleezbZTTfcPzfymDSzF-oUw&s=10",BOX CINEMA
+https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8
+#EXTINF:-1 tvg-logo="https://assets.wired2fish.com/uploads/2022/10/wired2fish-tv-logo.jpg",Wired2Fish
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=GuRPv1rtMLz-SSiwVgL2
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGDjDeNcvNi5ug-rSnAbBwcyD8MGQ5zxqrr2lJNE6eK7IKGbZ-4xokas&s=10",AVA FAMILY
+https://familyhls.avatv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1DRuYobcFlZwhXXcKd1mZ8uiWHB4Yw5V7N30KhlXjw&s=10",ACTION24
+https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTw6yrnvCfyXnp-kub688gV14-D2idL4B1u3IoQWvlfF0vXk7Yk9NvPII&s=10",Charge
+https://fast-channels.sinclairstoryline.com/CHARGE/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-orU5mZp_wJ8BX263vp4OaUbfNgdHa3klxXRlJ1roUGgfhczWhRjd6vRR&s=10",Discover Film
+https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7NRocBgv7djn8VIodltDcs4D3WbVmBenG_ZaM4RHEJCk75tKaBD7X5Q5&s=10",EBS Cinema
+https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.episodate.com/images/tv-show/full/32986.jpg",Made In Hollywood
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PeVrBtaqTe7dtPlGugNbRncUKA4oaOFtknHkEBUwaA&s=10",That's 80S Live
+https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWohu2Lq0N3dvfwt09U-5TItfEnSD_vQr6jBe9edUyfg&s=10",That's 90s00s Live
+https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcLUK5ChIUnpOR8qDpcfICnqmzB4kMoFJGNT2VvvtbA&s",That's 70s Live
+https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yBL_LtOZyat-gfoJnmBhgU3xrT69qDrP3aWzw6--xMl2iHFIvWxRdJ3F&s=10",FIFA+
+https://becfa822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yBL_LtOZyat-gfoJnmBhgU3xrT69qDrP3aWzw6--xMl2iHFIvWxRdJ3F&s=10",FIFA+1
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
