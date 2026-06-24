@@ -100,14 +100,6 @@ https://d1mgh147xpmgs8.cloudfront.net/360p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReDKzAlQcO0XNNCC9lORaUPuirrj4q2bDlA&s" group-title="Entertainment & Local",SCHLADMING TV
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/chunklist_w855286864_b1200000.m3u8
 
-#=== BRUNEI TV (RTB) ===
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUkZvCUloNdXYxEWkZc92j-V7gJmVB63v_joGnBHXZNQ&s" group-title="Brunei TV (RTB)",RTB Sukmaindera
-https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQQ5iBJGTyK2-2RhKupFrk3OhjIEbFm_KEoh5e2GUB6g&s=10" group-title="Brunei TV (RTB)",RTB Aneak
-https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image13759856438.jpg" group-title="Brunei TV (RTB)",GO live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
 #=== World ===
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VIisVrwMl0kvoZdv8FCfZkq9tmPM_Tjtbw&s" group-title="World",News World
 https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01076-lightning-newsworld-rakutenus/cb563d007f747b8f93cc2167d0f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af6ffb055108c6fa6ac1a1dc02e58e68314c8c915ee858246cc41d223f81c9c9af48d8641e0c3ab4191f40236733a1655dbe84d9bc854badb946d4bf31b4a672d252d270e9c3458a7544a5d8292a35998fd61a9ab248f673cb40bda3eecd47769d86bf6b134c78fbad1454a36af8e3c0b42f1b5f2d8ab6770d5f298d3582c4fe2ba2c5f583eaa04325d287ea9dd8178a5d01c97f90184ba6e1637cbab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ade98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d984d814c6894738f904b9e3c6f3364cf7998cceb5a1de0ddc60c/132/640x360_792000/index.m3u8
