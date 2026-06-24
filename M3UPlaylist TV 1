@@ -53,8 +53,6 @@ https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master_360p.m3u8
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png" group-title="News",skynews extra2
 https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_360p.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiAar8dshHxGtBmvlLuaMcGUllt-4wRq21Ug&s" group-title="News",arirang LIVE
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 #=== MUSIC ===
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcLUK5ChIUnpOR8qDpcfICnqmzB4kMoFJGNT2VvvtbA&s" group-title="Music",That's 70s Live
