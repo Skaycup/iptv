@@ -1,0 +1,329 @@
+{
+"playlist": [
+{
+"group": "Movies & Series",
+"channels": [
+{
+"name": "Rakuten TV",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLgZaif7y9g4KyQOpjrbuqQqdunj2-3NOOYyG4NFA9lyDou_gRrwzWsGw&s=10",
+"url": "https://54045f0c40fd442c8b06df076aaf1e85.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6065/master.m3u8"
+},
+{
+"name": "Cinevault 80'S Live",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSN7O0GIAkyFxILBHbn2uGREfm4kNnH0rzEF2IBCOWLrSstBLIIB3fELTvc&s=10",
+"url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8"
+},
+{
+"name": "Moviesphere Live",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg3DdmQTOjIReX36bNd_pl6o--oz-fD7lgL9vs3YQhnw&s=10",
+"url": "https://samsunguk-moviesphereuk-samsung-uk-s7xaa.amagi.tv/playlist/samsunguk-moviesphereuk-samsung-uk/playlist.m3u8"
+},
+{
+"name": "Cinevault Westerns Live",
+"logo": "https://images.prismic.io/cinevaulttv/aa5jmVxvIZEnjdMI_cinevault-westerns-logo.png?auto=format%2Ccompress&q=85",
+"url": "https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8"
+},
+{
+"name": "The Aechive Live",
+"logo": "https://www.thearchive.tv/images/thearchive/the_archive.png?imwidth=256",
+"url": "https://cineverse.g-mana.live/media/09899328-5b22-4d3e-ba1e-111856798c99/playlist_3.m3u8"
+},
+{
+"name": "AMC En Espanol Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/ce9e8efdd95d7a2876bfd278dd9ba63d.webp",
+"url": "https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8"
+},
+{
+"name": "Filmes Onlin Live",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQeR0pDeLokHRH1dMwj1IXry857ApUpMEYTD4nedO8UE_S3JbZBGDSgQ&s=10",
+"url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178"
+},
+{
+"name": "BOX CINEMA",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvtPVnuAUwjA1_n81CJmtleezbZTTfcPzfymDSzF-oUw&s=10",
+"url": "https://distrib.noisypeak.com/d/K9U16RORPWBMXX3B09JH/hls3/now,-1m/1.m3u8"
+},
+{
+"name": "Discover Film",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-orU5mZp_wJ8BX263vp4OaUbfNgdHa3klxXRlJ1roUGgfhczWhRjd6vRR&s=10",
+"url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8"
+},
+{
+"name": "EBS Cinema",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTe7NRocBgv7djn8VIodltDcs4D3WbVmBenG_ZaM4RHEJCk75tKaBD7X5Q5&s=10",
+"url": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8"
+},
+{
+"name": "Cine Sony",
+"logo": "https://images.prismic.io/cinesony/abSIflxvIZEnjq5C_2400px_SonyCine_HeroLogo_RGB_0004_Large_Color.png?auto=format%2Ccompress&q=85",
+"url": "https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8"
+},
+{
+"name": "cinevault-80s",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnokffnTKWyQe_B8RydIh02kp6aLs22VOLqg&s",
+"url": "https://gsn-cinevault-80s-2-us.roku.wurl.tv/1200.m3u8"
+},
+{
+"name": "maverick black cinema",
+"logo": "https://m.media-amazon.com/images/I/51Wug2dY1GL.png",
+"url": "https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/1200.m3u8"
+},
+{
+"name": "SONY_MOVIES",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDaCXPTOsnW9JA7akcCeGJK6z5ltyeLRH_Zw&s",
+"url": "https://cdn-5.nxplay.com.br/SONY_MOVIES/tracks-v2a1/mono.ts.m3u8"
+},
+{
+"name": "hefilmdetective",
+"logo": "https://upload.wikimedia.org/wikipedia/en/e/ef/The_Film_Detective_logo.png",
+"url": "https://cinedigm-entertainment-corp-thefilmdetective-1-us.ono.wurl.tv/2000.m3u8"
+},
+{
+"name": "whiplash cinema",
+"logo": "https://static.vecteezy.com/system/resources/previews/022/580/623/non_2x/movie-media-letter-logo-design-illustration-free-vector.jpg",
+"url": "https://cdn.whiplash.cc/whiplash-cinema/tracks-v1a1/mono.m3u8"
+},
+{
+"name": "PUBLICMOVIES",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwsCLXMbTBPv6MhnKVG_51uwqV5672xepBgw&s",
+"url": "https://mumt04.tangotv.in/m18aqlK4PUBLICMOVIES/tracks-v2a1/mono.m3u8"
+},
+{
+"name": "Action Hollywood Movies Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/e72a55131ffe44f85845456ed45a407d.webp",
+"url": "https://amg01076-amg01076c4-plex-us-4787.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01076-lightning-actionhollywood-plexus/cb563d007f747b8f93cc2167d0f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af5f6e55c43dc38a0ac1a1e952958e68314c8c94eea81d646cd168474a4469f9af6d9d646e0c3ab4191f40236733a1655dbe84d9bc854badb946d4bf31b4a672d252d270e9c3458a7544a5d8292a35998fd61a9ab248f673cb40bda3eecd47769d86bf6b134c78fbad1454a36af8e3c0b42f1b5f2d8ab6770d5f298d3582c4fe2ba2c5f583eaa04325d287ea9dd8178a5d01c97f90184ba6e1637cbab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ade98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d9846844c68a8778c904b755b839012b925ad5a9bb3fa227252a3/187/848x480_1249600/index.m3u8"
+},
+{
+"name": "FilmRise Free Movies Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/4d8d5f0a464e1242b4fde108caaa6570.webp",
+"url": "https://d1bl6tskrpq9ze.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_lgchannels-cdp-springserve/701ec623-25a1-421b-a20b-888781261383/0.m3u8"
+},
+{
+"name": "Mega Cine Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/5b157c3c4e4df514dab25bcb6e5d53cc.webp",
+"url": "https://cnn.hostlagarto.com/megacinetv/playlist.m3u8"
+},
+{
+"name": "Acción Mexicana Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8b3018c8d528155d9d5dd615797d6ca5.webp",
+"url": "https://amg00658-amg00658c104-canelatv-international-7980.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-accionmexicana-canelatvinternational/playlist.m3u8"
+}
+]
+},
+{
+"group": "News",
+"channels": [
+{
+"name": "DW",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/DW_%28TV%29_Logo_2012.png",
+"url": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"
+},
+{
+"name": "NHK WORLD JAPAN",
+"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/1280px-NHK_World.svg.png",
+"url": "https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8"
+},
+{
+"name": "skynews extra1",
+"logo": "https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png",
+"url": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master_360p.m3u8"
+},
+{
+"name": "skynews extra2",
+"logo": "https://logos-world.net/wp-content/uploads/2023/04/Sky-News-Logo.png",
+"url": "https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master_360p.m3u8"
+}
+]
+},
+{
+"group": "Music",
+"channels": [
+{
+"name": "That's 70s Live",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFcLUK5ChIUnpOR8qDpcfICnqmzB4kMoFJGNT2VvvtbA&s",
+"url": "https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8"
+},
+{
+"name": "That's 80S Live",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3PeVrBtaqTe7dtPlGugNbRncUKA4oaOFtknHkEBUwaA&s=10",
+"url": "https://lightning-now80s-rakuten.amagi.tv/playlist.m3u8"
+},
+{
+"name": "That's 90s00s Live",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWohu2Lq0N3dvfwt09U-5TItfEnSD_vQr6jBe9edUyfg&s=10",
+"url": "https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8"
+},
+{
+"name": "Oh Muang Lao",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYgGLnIFexXwmDn7mcY68qgcXAePMLF9TqTg&s",
+"url": "https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/chunklist.m3u8"
+},
+{
+"name": "NOW Rock",
+"logo": "https://img-284.media.info/i/bg/6/6367-1672197098.webp",
+"url": "https://rakutenaa-lightning-now90s-rakuten-2968n.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-lightning-now90s-rakuten/cb563d007f747b8f93cc2167d0f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af2ffe109438a6ca1ac1a1dc17958e68314c8c915b9d580469e16d023a717cfc6a282d642e0c3ab4191f40236733a1655dbe84d9bc854badb946d4bf31b4a672d252d270e9c3458a7544a5d8292a35998fd61a9ab248f673cb40bda3eecd47769d86bf6b134c78fbad1454a36af8e3c0b42f1b5f2d8ab6770d5f298d3582c4fe2ba2c5f583eaa04325d287ea9dd8178a5d01c97f90184ba6e1637cbab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ade98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4c9c4d33cdd19a0cb7472e8c4a548dd7b2b9b1869caa5f37455d/53/848x480_1249600/index.m3u8"
+},
+{
+"name": "vevo70s",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvNfY76tB-PzChc1sR_ZH56D3ksEf36z7I-Q&s",
+"url": "https://amg00056-vevotv-vevo70saunz-samsungau-xzszd.amagi.tv/playlist/amg00056-vevotv-vevo70saunz-samsungau/playlist.m3u8"
+},
+{
+"name": "vevo80s",
+"logo": "https://iili.io/bWofvj.png",
+"url": "https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8"
+},
+{
+"name": "vevo90s",
+"logo": "https://iili.io/bWxvbR.png",
+"url": "https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/ts-us-e2-n1/playlist/amg00056-vevotv-vevo90saunz-samsungau/7836e79f-72cc-11f1-b433-1e0e8b36df97/14/640x360_1057680/index.m3u8"
+},
+{
+"name": "vevo2k",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f8ee7254150c78d90e38bb3393ad94b7.webp",
+"url": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8"
+},
+{
+"name": "vevo country",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpmi3oYIdc_WfubrW-n9Uy1DXQRrjlb9FmQ&s",
+"url": "https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8"
+},
+{
+"name": "Indimusic tv",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO-qv1F3kleQwAy6UYmC-LYQi_XAcVBnyomA&s",
+"url": "https://live-evg10.tv360.bitel.com.pe/bitel/musictv/chunks.m3u8"
+}
+]
+},
+{
+"group": "Sports",
+"channels": [
+{
+"name": "FIFA+",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yBL_LtOZyat-gfoJnmBhgU3xrT69qDrP3aWzw6--xMl2iHFIvWxRdJ3F&s=10",
+"url": "https://becfa822.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZnJfRklGQVBsdXNGcmVuY2hfSExT/playlist.m3u8"
+},
+{
+"name": "FIFA+1",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-yBL_LtOZyat-gfoJnmBhgU3xrT69qDrP3aWzw6--xMl2iHFIvWxRdJ3F&s=10",
+"url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+},
+{
+"name": "Sky Racing",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuIvcty3FmqqTIQ3kY6k0z83jQH3o-vrlWOA&s",
+"url": "https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/chunklist_w296596805.m3u8"
+},
+{
+"name": "Sky Racing2",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU6r0eAUUDYGQW---nrx_EucOhhCunMsQK3A&s",
+"url": "https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/chunklist_w1948902740.m3u8"
+},
+{
+"name": "Red Bull TV",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUtq1O22P4_OCneLUkfz8Yzy2RwpFt2InkYw&s",
+"url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8"
+},
+{
+"name": "RS News Sports 5 Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/702517cc49df69d1f090c7d5227c53ba.webp",
+"url": "https://video03.logicahost.com.br/rssports5/rssports5/chunklist_w458799111.m3u8"
+},
+{
+"name": "pointve",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRwpCkhBIMQETOugvI508T5R1OvtkSlkCewg&s",
+"url": "https://tv.pointville.ag/hls/mystream.m3u8"
+},
+{
+"name": "Cricket Gold",
+"logo": "https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png",
+"url": "https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/0da5110b-8bc7-4e41-8c29-5c7e92bbc7d1/4.m3u8"
+}
+]
+},
+{
+"group": "Entertainment & Variety",
+"channels": [
+{
+"name": "Wired2Fish",
+"logo": "https://assets.wired2fish.com/uploads/2022/10/wired2fish-tv-logo.jpg",
+"url": "https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-608a2c722957c9002c6a617b.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=GuRPv1rtMLz-SSiwVgL2"
+},
+{
+"name": "AVA FAMILY",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJGDjDeNcvNi5ug-rSnAbBwcyD8MGQ5zxqrr2lJNE6eK7IKGbZ-4xokas&s=10",
+"url": "https://familyhls.avatv.live/hls/stream.m3u8"
+},
+{
+"name": "ACTION24",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1DRuYobcFlZwhXXcKd1mZ8uiWHB4Yw5V7N30KhlXjw&s=10",
+"url": "https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8"
+},
+{
+"name": "Charge",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTw6yrnvCfyXnp-kub688gV14-D2idL4B1u3IoQWvlfF0vXk7Yk9NvPII&s=10",
+"url": "https://fast-channels.sinclairstoryline.com/CHARGE/index_1.m3u8"
+},
+{
+"name": "Made In Hollywood",
+"logo": "https://static.episodate.com/images/tv-show/full/32986.jpg",
+"url": "https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8"
+}
+]
+},
+{
+"group": "Entertainment & Local",
+"channels": [
+{
+"name": "Deadly Women",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6lbsS4mwsoFTeoojM3Jn1hIPpi1iJBO0bHQ&s",
+"url": "https://d1mgh147xpmgs8.cloudfront.net/360p-vtt/index.m3u8"
+},
+{
+"name": "SCHLADMING TV",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTReDKzAlQcO0XNNCC9lORaUPuirrj4q2bDlA&s",
+"url": "https://m317.video-stream-hosting.de/gzSoftware-live/definst/smil:livestream.smil/chunklist_w855286864_b1200000.m3u8"
+}
+]
+},
+{
+"group": "World",
+"channels": [
+{
+"name": "News World",
+"logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VIisVrwMl0kvoZdv8FCfZkq9tmPM_Tjtbw&s",
+"url": "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg01076-lightning-newsworld-rakutenus/cb563d007f747b8f93cc2167d0f562ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5da56852db80148b6f4adafb8c2360625f5c98435ee3b24af6ffb055108c6fa6ac1a1dc02e58e68314c8c915ee858246cc41d223f81c9c9af48d8641e0c3ab4191f40236733a1655dbe84d9bc854badb946d4bf31b4a672d252d270e9c3458a7544a5d8292a35998fd61a9ab248f673cb40bda3eecd47769d86bf6b134c78fbad1454a36af8e3c0b42f1b5f2d8ab6770d5f298d3582c4fe2ba2c5f583eaa04325d287ea9dd8178a5d01c97f90184ba6e1637cbab88faf7bdaee0aa844690248592bac87d0a796a0a06894ab1da43ef698c28e69e48616b444afbce0e849e8f0a79226e969052d1241ebbf08297905b689d2e480ca828f2733141e0782c70ec26fcda1b698a2d05cc751ef34a3a8d47b3e978ade98bab5675e59ef443f96efdbc4587a555e73e6a2b77d9981b564b4872c7fd265c600ba46bd0939bb139597aaf9dabd9cf5c3f0b3c6d222f83f0e87d9ece8d692a1fcf572977675270b201c562cb0f590a4d984d814c6894738f904b9e3c6f3364cf7998cceb5a1de0ddc60c/132/640x360_792000/index.m3u8"
+},
+{
+"name": "TRT World",
+"logo": "https://img-284.media.info/i/bg/6/6617-1492904872.webp",
+"url": "https://tv-trtworld.medya.trt.com.tr/master.m3u8"
+},
+{
+"name": "BBC Earth Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f6710d872d321a358ac394d73309c82a.webp",
+"url": "https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8"
+},
+{
+"name": "Adventure Earth Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8964689ffab6b835bfc53e18f535f45d.webp",
+"url": "https://a57e9c69976649b582a8d7604c00e69a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AdventureEarth/2b2be4d5-7d0f-4e7b-b01a-21db7dfd241f/0.m3u8"
+},
+{
+"name": "People Are Awesome Live",
+"logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/e55d3f6f2a75879017f1850561af0d1c.webp",
+"url": "https://jukin-peopleareawesome-2-ca.samsung.wurl.tv/2000.m3u8"
+}
+]
+},
+{
+"group": "ทีวีทั่วไป",
+"channels": [
+{
+"name": "cgtndocumentary",
+"logo": "https://i.imgur.com/JHv0WxM.png",
+"url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master540p.m3u8"
+}
+]
+}
+]
+}
